@@ -1,0 +1,11 @@
+{
+  "name": "backbone-couchdb",
+  "main": "backbone-couchdb.js",
+  "version": "0.0.0",
+  "homepage": "http://janmonschke.com/projects/backbone-couchdb.html",
+  "authors": [
+    "Jan Monschke <jan.monschke@gmail.com>"
+  ],
+  "description": "couchdb connector for backbone with support for real time changes",
+  "license": "MIT"
+}
